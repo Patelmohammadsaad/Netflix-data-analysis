@@ -12,6 +12,7 @@ distribution, genres, ratings aur yearly growth ke trends dekhe gaye hain.
 - Python
 - Pandas (data cleaning & analysis)
 - Matplotlib & Seaborn (data visualization)
+- Jupyter Notebook
 
 ## 🔍 What I Did
 1. Loaded and explored the raw dataset
@@ -26,27 +27,12 @@ distribution, genres, ratings aur yearly growth ke trends dekhe gaye hain.
 - **Most Popular Genre:** International Movies (2,752 titles)
 - **Peak Year for Content Addition:** 2019, with 2,016 titles added
 
-## 📷 Visualizations
-
-### Movies vs TV Shows
-![Movie vs TV Show](chart_movie_vs_tvshow.png)
-
-### Top 10 Countries by Content
-![Top Countries](chart_top_countries.png)
-
-### Content Added Per Year
-![Yearly Growth](chart_yearly_growth.png)
-
-### Top 10 Genres
-![Top Genres](chart_top_genres.png)
-
-### Content Ratings Distribution
-![Ratings](chart_ratings.png)
+All charts and detailed code are available inside the notebook: **[Netflix-data-analysis.ipynb](./Netflix-data-analysis.ipynb)**
 
 ## 🚀 How to Run
 ```bash
-pip install pandas matplotlib seaborn
-python analysis.py
+pip install pandas matplotlib seaborn jupyter
+jupyter notebook Netflix-data-analysis.ipynb
 ```
 
 ## ✍️ Author
