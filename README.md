@@ -30,19 +30,20 @@ distribution, genres, ratings aur yearly growth ke trends dekhe gaye hain.
 ## 📷 Visualizations
 
 ### Movies vs TV Shows
-![Movie vs TV Show](Movies%20vs%20TV%20Shows.png)
+![Movie vs TV Show](Movies_vs_TV_Shows.png)
 
 ### Top 10 Countries by Content
-![Top Countries](Top%2010%20Countries%20by%20Content.png)
+![Top Countries](Top_10_Countries_by_Content.png)
 
 ### Content Added Per Year
-![Yearly Growth](Content%20Added%20Per%20Year.png)
+![Yearly Growth](Content_Added_Per_Year.png)
 
 ### Top 10 Genres
-![Top Genres](Top%2010%20Genres.png)
+![Top Genres](Top_10_Genres.png)
+
 
 ### Content Ratings Distribution
-![Ratings](Content%20Ratings%20Distribution.png)
+![Ratings](Content_Ratings_Distribution.png)
 
 Full code is available inside the notebook: **[Netflix-data-analysis.ipynb](./Netflix-data-analysis.ipynb)**
 
