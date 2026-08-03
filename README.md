@@ -27,7 +27,24 @@ distribution, genres, ratings aur yearly growth ke trends dekhe gaye hain.
 - **Most Popular Genre:** International Movies (2,752 titles)
 - **Peak Year for Content Addition:** 2019, with 2,016 titles added
 
-All charts and detailed code are available inside the notebook: **[Netflix-data-analysis.ipynb](./Netflix-data-analysis.ipynb)**
+## 📷 Visualizations
+
+### Movies vs TV Shows
+![Movie vs TV Show](Movies%20vs%20TV%20Shows.png)
+
+### Top 10 Countries by Content
+![Top Countries](Top%2010%20Countries%20by%20Content.png)
+
+### Content Added Per Year
+![Yearly Growth](Content%20Added%20Per%20Year.png)
+
+### Top 10 Genres
+![Top Genres](Top%2010%20Genres.png)
+
+### Content Ratings Distribution
+![Ratings](Content%20Ratings%20Distribution.png)
+
+Full code is available inside the notebook: **[Netflix-data-analysis.ipynb](./Netflix-data-analysis.ipynb)**
 
 ## 🚀 How to Run
 ```bash
